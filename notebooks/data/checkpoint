@@ -1,0 +1,2 @@
+model_checkpoint_path: "panda_gan_target_constrained_fewdata.ckpt"
+all_model_checkpoint_paths: "panda_gan_target_constrained_fewdata.ckpt"
